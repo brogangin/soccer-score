@@ -1,0 +1,82 @@
+array:6 [▼
+    "get" => "fixtures"
+    "parameters" => array:1 [▼
+        "live" => "all"
+    ]
+    "errors" => []
+    "results" => 23
+    "paging" => array:2 [▼
+        "current" => 1
+        "total" => 1
+    ]
+    "response" => array:23 [▼
+        0 => array:6 [▶]
+        1 => array:6 [▼
+        "fixture" => array:8 [▼
+            "id" => 717330
+            "referee" => "Tim Robinson, England"
+            "timezone" => "UTC"
+            "date" => "2022-05-02T16:15:00+00:00"
+            "timestamp" => 1651508100
+            "periods" => array:2 [▼
+                "first" => 1651508100
+                "second" => null
+            ]
+            "venue" => array:3 [▼
+                "id" => 535
+                "name" => "Craven Cottage"
+                "city" => "London"
+            ]
+            "status" => array:3 [▼
+                "long" => "First Half"
+                "short" => "1H"
+                "elapsed" => 5
+            ]
+        ]
+        "league" => array:7 [▼
+            "id" => 40
+            "name" => "Championship"
+            "country" => "England"
+            "logo" => "https://media.api-sports.io/football/leagues/40.png"
+            "flag" => "https://media.api-sports.io/flags/gb.svg"
+            "season" => 2021
+            "round" => "Regular Season - 45"
+        ]
+        "teams" => array:2 [▼
+            "home" => array:4 [▼
+                "id" => 36
+                "name" => "Fulham"
+                "logo" => "https://media.api-sports.io/football/teams/36.png"
+                "winner" => null
+            ]
+            "away" => array:4 [▼
+                "id" => 1359
+                "name" => "Luton"
+                "logo" => "https://media.api-sports.io/football/teams/1359.png"
+                "winner" => null
+            ]
+        ]
+        "goals" => array:2 [▼
+            "home" => 0
+            "away" => 0
+        ]
+        "score" => array:4 [▼
+            "halftime" => array:2 [▼
+                "home" => 0
+                "away" => 0
+            ]
+            "fulltime" => array:2 [▼
+                "home" => null
+                "away" => null
+            ]
+            "extratime" => array:2 [▼
+                "home" => null
+                "away" => null
+            ]
+            "penalty" => array:2 [▼
+                "home" => null
+                "away" => null
+            ]
+        ]
+        "events" => []
+        ]
